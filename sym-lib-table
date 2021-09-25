@@ -1,0 +1,6 @@
+(sym_lib_table
+  (lib (name "USB_conn")(type "KiCad")(uri "${KIPRJMOD}/USB_conn.kicad_sym")(options "")(descr ""))
+  (lib (name "USB_Interface_Chip")(type "KiCad")(uri "${KIPRJMOD}/USB_Interface_Chip.kicad_sym")(options "")(descr ""))
+  (lib (name "ESP32-WROOM-32")(type "KiCad")(uri "${KIPRJMOD}/ESP32-WROOM-32.kicad_sym")(options "")(descr ""))
+  (lib (name "ADC")(type "KiCad")(uri "${KIPRJMOD}/ADC.kicad_sym")(options "")(descr ""))
+)
