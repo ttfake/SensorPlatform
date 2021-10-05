@@ -45,7 +45,7 @@
         "silk_text_upright": false,
         "zones": {
           "45_degree_only": false,
-          "min_clearance": 0.508
+          "min_clearance": 0.0
         }
       },
       "diff_pair_dimensions": [],
@@ -439,6 +439,10 @@
     [
       "d720a3e1-1640-4046-b140-d50852a5bd23",
       "24 Bit Sigma Delta ADC"
+    ],
+    [
+      "745506c6-32a7-4acd-a125-19017ae14f6c",
+      "Sensor Module"
     ]
   ],
   "text_variables": {}

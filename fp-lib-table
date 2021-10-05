@@ -1,4 +1,5 @@
 (fp_lib_table
   (lib (name "ESP-WROOM-32")(type "KiCad")(uri "${KIPRJMOD}/Footprints/ESP-WROOM-32.pretty")(options "")(descr ""))
   (lib (name "ADC")(type "KiCad")(uri "${KIPRJMOD}/Footprints/ADC.pretty")(options "")(descr ""))
+  (lib (name "TVOC")(type "KiCad")(uri "${KIPRJMOD}/Footprints/TVOC.pretty")(options "")(descr ""))
 )
