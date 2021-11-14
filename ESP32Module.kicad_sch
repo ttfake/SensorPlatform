@@ -33,14 +33,16 @@
             (xy -2.032 -0.762)
             (xy 2.032 -0.762)
           )
-          (stroke (width 0.508)) (fill (type none))
+          (stroke (width 0.508) (type default) (color 0 0 0 0))
+          (fill (type none))
         )
         (polyline
           (pts
             (xy -2.032 0.762)
             (xy 2.032 0.762)
           )
-          (stroke (width 0.508)) (fill (type none))
+          (stroke (width 0.508) (type default) (color 0 0 0 0))
+          (fill (type none))
         )
       )
       (symbol "C_1_1"
@@ -78,7 +80,8 @@
       )
       (symbol "R_0_1"
         (rectangle (start -1.016 -2.54) (end 1.016 2.54)
-          (stroke (width 0.254)) (fill (type none))
+          (stroke (width 0.254) (type default) (color 0 0 0 0))
+          (fill (type none))
         )
       )
       (symbol "R_1_1"
@@ -107,7 +110,8 @@
       )
       (symbol "ESP32-WROOM-32_0_1"
         (rectangle (start -33.02 43.18) (end 33.02 -40.64)
-          (stroke (width 0.1524)) (fill (type none))
+          (stroke (width 0.1524) (type default) (color 0 0 0 0))
+          (fill (type none))
         )
       )
       (symbol "ESP32-WROOM-32_1_1"
@@ -294,21 +298,24 @@
             (xy -0.762 1.27)
             (xy 0 2.54)
           )
-          (stroke (width 0)) (fill (type none))
+          (stroke (width 0) (type default) (color 0 0 0 0))
+          (fill (type none))
         )
         (polyline
           (pts
             (xy 0 0)
             (xy 0 2.54)
           )
-          (stroke (width 0)) (fill (type none))
+          (stroke (width 0) (type default) (color 0 0 0 0))
+          (fill (type none))
         )
         (polyline
           (pts
             (xy 0 2.54)
             (xy 0.762 1.27)
           )
-          (stroke (width 0)) (fill (type none))
+          (stroke (width 0) (type default) (color 0 0 0 0))
+          (fill (type none))
         )
       )
       (symbol "+3V3_1_1"
@@ -347,7 +354,8 @@
             (xy -1.27 -1.27)
             (xy 0 -1.27)
           )
-          (stroke (width 0)) (fill (type none))
+          (stroke (width 0) (type default) (color 0 0 0 0))
+          (fill (type none))
         )
       )
       (symbol "GND_1_1"
@@ -924,7 +932,7 @@
     (property "Value" "10k" (id 1) (at 45.72 106.68 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Resistor_SMD:R_0603_1608Metric" (id 2) (at 41.402 105.41 90)
+    (property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder" (id 2) (at 41.402 105.41 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 43.18 105.41 0)
@@ -996,7 +1004,7 @@
     (uuid 4af8ece7-9458-48fa-a9a3-13356998253e)
     (property "Reference" "U4" (id 0) (at 146.812 56.642 0))
     (property "Value" "ESP32-WROOM-32" (id 1) (at 146.812 59.182 0))
-    (property "Footprint" "ESP-WROOM-32:MODULE_ESP-WROOM-32" (id 2) (at 165.1 22.86 0)
+    (property "Footprint" "ESP32-WROOM-32:MODULE_ESP-WROOM-32" (id 2) (at 165.1 22.86 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (id 3) (at 132.334 86.36 0)

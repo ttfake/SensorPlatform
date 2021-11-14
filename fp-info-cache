@@ -1,5 +1,5 @@
-20866785763102612
-ADC
+20871724011001351
+ADS122C04IPWR
 SOP65P640X120-16N
 
 
@@ -51141,7 +51141,7 @@ One digit LED 7 segment SA39-11 SC39-11 SA39-12 SC39-12
 0
 10
 10
-ESP-WROOM-32
+ESP32-WROOM-32
 MODULE_ESP-WROOM-32
 
 
@@ -59303,6 +59303,13 @@ net tie
 0
 4
 4
+OpticalSensor
+PQFN65P470X450X270-20N
+
+
+0
+20
+20
 OptoDevice
 ADNS-9800
 Laser Gaming Sensor ADNS-9800
@@ -77370,6 +77377,13 @@ rotary encoder
 0
 5
 4
+Seeed
+SEEED_110990030
+
+
+0
+4
+4
 Sensor
 Aosong_DHT11_5.5x12.0_P2.54mm
 Temperature and humidity module, http://akizukidenshi.com/download/ds/aosong/DHT11.pdf
@@ -90922,3 +90936,10 @@ varistor SIOV
 0
 2
 2
+ZMOD4410-LGA-12_3x3
+ZMOD4410-LGA-12_3x3
+
+
+0
+12
+12

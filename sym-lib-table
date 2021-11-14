@@ -5,4 +5,5 @@
   (lib (name "ADC")(type "KiCad")(uri "${KIPRJMOD}/ADC.kicad_sym")(options "")(descr ""))
   (lib (name "TVOC")(type "KiCad")(uri "${KIPRJMOD}/Footprints/TVOC.kicad_sym")(options "")(descr ""))
   (lib (name "OpticalSensor")(type "KiCad")(uri "${KIPRJMOD}/OpticalSensor.kicad_sym")(options "")(descr ""))
+  (lib (name "Seeed4Pin2mmFemale")(type "KiCad")(uri "/home/tim/projects/Electronics/TTFCircuitsLLC/Portfolio/ContextualElectronicsPractice/SensorPlatform_v3/SymbolsAndFootPrints/SeeedConnector/Seeed4Pin2mmFemale.kicad_sym")(options "")(descr ""))
 )
